@@ -12,8 +12,15 @@ Meteorology Analysis- Correlating Wind Speed with Precipitation
 
 <h2> Oregon Shelf Surface Mooring </h2>
 
-## Annual Wind and Rain Patterns
+### Annual Wind and Rain Patterns
 <img alt="hello" src=Oregon_Shelf_Surface_Mooring/annualRainWind.png>
+
+### Monthly Average Wind Speed
+<img alt="hello" src=Oregon_Shelf_Surface_Mooring/monthlyAvgWind.png>
+
+### Monthly Average Precipitation Rates
+<img alt="hello" src=Oregon_Shelf_Surface_Mooring/monthlyAvgRain.png>
+
 
 <h2> Oregon Offshore Surface Mooring </h2>
 
