@@ -4,11 +4,11 @@ Josaiah Clark<br>
 BME 450, Abadi<br>
 2/21/20<br>
 
+CODE: https://colab.research.google.com/drive/1dwd26rRM9IhMvH5ezwPlnv7dWUbQ8vSJ
+
 ## Introduction <br>
 <p>
-In this project, wind speed and precipitation rate data taken from surface buoys off the Oregon coast were examined from April 2018 to April 2019. The two locations under examination were "Oregon Shelf Surface Mooring" and "Oregon Offshore Surface Mooring." 
-
-Meteorology Analysis- Correlating Wind Speed with Precipitation
+In this project, wind speed and precipitation rate data taken from surface buoys off the Oregon coast were examined from April 2018 to April 2019. The two locations under examination were "Oregon Shelf Surface Mooring" and "Oregon Offshore Surface Mooring," the former being 72 kilometers East and 28 kilometers North of the latter. 
 
 <h2> Oregon Shelf Surface Mooring </h2>
 
@@ -54,9 +54,14 @@ As shown in figure 4, the Oregon Offshore Surface Mooring site is most often exp
 
 <img alt="hello" src=Cross-Correlation/crossCorrWind.png><br>
 **Figure 7**
+<p>
+Figure 7 shows that the highest correlation between wind speeds at the Oregon Shelf Surface Mooring site and the Oregon Offshore Surface Mooring was 0.303, where the Oregon Offshore Surface Mooring wind patterns lagged the Oregon Shelf Surface Mooring wind patterns by 11 days and 8 hours. The data suggests that more often than not, wind patterns travel soutwestward from near the coast and over the Oregon Offshore Surface Mooring buoy. Evidence to support the efficacy of this trend comes from the existence of the North Pacific Gyre, a large circulating ocean vortex that stems from both the coriolis effect and atmospheric wind currents. The data is in agreement with the southwestern wind patterns that travel down North America's West Coast, causing the North Pacific Gyre to circulate clockwise. 
+</p>
 
 <img alt="hello" src=Cross-Correlation/crossCorrRain.png><br>
 **Figure 8**
+<p>
+</p>
 
-In both cross-correlation calculations (figures 7 and 8), data from Oregon Shelf Surface Mooring led Oregon Offshore Surface Mooring by about ten days. These close lag values suggest that weather systems pass over the Oregon Shelf Surface Mooring sensor, then move out toward the Pacific where they pass over the Oregon Offshore Surface Mooring sensor.
+In both cross-correlation calculations (figures 7 and 8), data from Oregon Shelf Surface Mooring led Oregon Offshore Surface Mooring by about ten days. These close lag values suggest that weather systems pass over the Oregon Shelf Surface Mooring sensor, then move out toward the Pacific where they pass over the Oregon Offshore Surface Mooring sensor.8
 ## Conclusion
