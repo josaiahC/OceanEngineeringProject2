@@ -51,6 +51,7 @@ As shown in figure 4, the Oregon Offshore Surface Mooring site is most often exp
 **Figure 6**
 
 <h2> Cross-Correlation of Wind Speeds and Precipitation Rates </h2>
+
 <img alt="hello" src=Cross-Correlation/crossCorrWind.png><br>
 **Figure 7**
 
