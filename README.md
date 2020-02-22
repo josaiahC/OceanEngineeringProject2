@@ -16,14 +16,14 @@ In this project, wind speed and precipitation data taken from surface buoys off 
 <img alt="hello" src=Oregon_Shelf_Surface_Mooring/annualRainWind.png><br>
 **Figure 1**
 
-<p> As shown in figure 1, it is most often both windy and rainy at the Oregon Shelf Surface Mooring site. In the Summer from late July to early September, there is a clear pattern of low wind and infrequent rain, which is typical for this time of year. There are scattered regions of windy but not rainy weather, with the most days occuring in mid-to-late April, November, and May. Less concentrated and most infrequent are days where it is rainy but not windy, spread out evenly over the year but absent in the month of April.
+<p> As shown in figure 1, most days it was both windy and rainy at the Oregon Shelf Surface Mooring site. In the Summer from late July to early September, there was a clear pattern of low wind and infrequent rain, which is typical for that time of year. There were scattered time periods of windy but not rainy weather, with the most days occuring in mid-to-late April, November, and May. Less concentrated and most infrequent were days where it was rainy but not windy, spread out evenly over the year but absent in the month of April.
 </p>
 
 ### Monthly Average Wind Speed
 <img alt="hello" src=Oregon_Shelf_Surface_Mooring/monthlyAvgWind.png><br>
 **Figure 2**
 <p>
-From figure 2, it is clear that at the Oregon Shelf Surface Mooring the month with the highest average wind speed was December (~6.75 m/s). The month with the lowest average wind speed at this site was August (~3 m/s).
+From figure 2, it is clear that at the Oregon Shelf Surface Mooring site the month with the highest average wind speed was December (~6.75 m/s). The month with the lowest average wind speed at this site was August (~3 m/s).
 </p> 
 
 ### Monthly Average Precipitation Rates
@@ -39,7 +39,7 @@ From figure 3, it is clear that at the Oregon Shelf Surface Mooring the month wi
 <img alt="hello" src=Oregon_Offshore_Surface_Mooring/annualRainWind.png><br>
 **Figure 4**
 <p>
-As shown in figure 4, the Oregon Offshore Surface Mooring site was most often exposed to both windy and rainy conditions during this time period. There was a large frequency of days with rain and no wind from late July to mid September, as well as in the second half of May. Days where it was windy but not rainy almost exclusively happened in the month of October, with other windy but not rainy days scattered between November and early May. Unlike the Oregon Shelf Surface Mooring site's annual wind and rain patterns from figure 1, there is no time of year in the Oregon Offshore Surface Mooring site's plot with extended periods of no rain and no wind. 
+As shown in figure 4, the Oregon Offshore Surface Mooring site was most often exposed to both windy and rainy conditions during this time period. There was a large frequency of days with rain and no wind from late July to mid September, as well as in the second half of May. Days where it was windy but not rainy almost exclusively happened in the month of October, with other windy but not rainy days scattered between November and early May. Unlike the Oregon Shelf Surface Mooring site's annual wind and rain patterns from figure 1, there was no time of year at the Oregon Offshore Surface Mooring site with extended periods of no rain and no wind. 
 </p>
 
 ### Monthly Average Wind Speed
@@ -67,7 +67,7 @@ Figure 6 shows that for the Oregon Offshore Surface Mooring site, December was t
 
 ### Time lag of wind speeds versus time lag of precipitation rates
 <p>
-  Figure 7 shows that the highest correlation between wind speeds at the Oregon Shelf Surface Mooring site and the Oregon Offshore Surface Mooring site was 0.303, where the Oregon Offshore Surface Mooring wind patterns lagged the Oregon Shelf Surface Mooring wind patterns by 11 days and 8 hours. The data suggests that more often than not, wind patterns travel soutwestward from near the coast and over the Oregon Offshore Surface Mooring buoy. Evidence to support the efficacy of this trend comes from the existence of the North Pacific Gyre, a large circulating ocean vortex that stems from both the coriolis effect and atmospheric wind currents. The data is in agreement with the southwestern wind patterns that travel down North America's West Coast, causing the North Pacific Gyre to circulate clockwise. 
+  Figure 7 shows that the highest correlation between wind speeds at the Oregon Shelf Surface Mooring site and the Oregon Offshore Surface Mooring site was 0.303, where the Oregon Offshore Surface Mooring wind patterns lagged the Oregon Shelf Surface Mooring wind patterns by 11 days and 8 hours. The data suggests that more often than not, wind patterns travel soutwestward from near the coast and over the Oregon Offshore Surface Mooring buoy. Evidence to support the efficacy of this trend comes from the existence of the North Pacific Gyre, a large circulating ocean vortex that stems from both the coriolis effect and atmospheric wind currents. The data is in agreement with the southwestern wind patterns that travel down North America's West Coast, causing the North Pacific Gyre to continue its clockwise circulation. 
 </p>
 <p>
   Figure 8 shows that the highest correlation between precipitation rates at the Oregon Shelf Surface Mooring site and the Oregon Offshore Surface Mooring site was 0.241, where the Oregon Offshore Surface Mooring precipitation rates lagged the Oregon Shelf Surface Mooring precipitation rates by 8 days. 
