@@ -39,7 +39,7 @@ From figure 3, it is clear that at the Oregon Shelf Surface Mooring the month wi
 <img alt="hello" src=Oregon_Offshore_Surface_Mooring/annualRainWind.png><br>
 **Figure 4**
 <p>
-As shown in figure 4, the Oregon Offshore Surface Mooring site is most often exposed to both windy and rainy conditions. There is a large frequency of days with rain and no wind from late July to mid September, 
+As shown in figure 4, the Oregon Offshore Surface Mooring site was most often exposed to both windy and rainy conditions during this time period. There was a large frequency of days with rain and no wind from late July to mid September, as well as in the second half of May. Days where it was windy but not rainy almost exclusively happened in the month of October, with other windy but not rainy days scattered between November and early May. Unlike the Oregon Shelf Surface Mooring site's annual wind and rain patterns from figure 1, there is no time of year in the Oregon Offshore Surface Mooring site's plot with extended periods of no rain and no wind. 
 </p>
 
 ### Monthly Average Wind Speed
