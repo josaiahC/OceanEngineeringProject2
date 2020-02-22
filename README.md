@@ -23,14 +23,14 @@ In this project, wind speed and precipitation rate data taken from surface buoys
 <img alt="hello" src=Oregon_Shelf_Surface_Mooring/monthlyAvgWind.png><br>
 **Figure 2**
 <p>
-From figure 2, it is clear that at the Oregon Shelf Surface Mooring the month with the highest average wind speed was December (~6.75 m/s).
+From figure 2, it is clear that at the Oregon Shelf Surface Mooring the month with the highest average wind speed was December (~6.75 m/s). The month with the lowest average wind speed at this site was August (~3 m/s).
 </p> 
 
 ### Monthly Average Precipitation Rates
 <img alt="hello" src=Oregon_Shelf_Surface_Mooring/monthlyAvgRain.png><br>
 **Figure 3**
 <p>
-From figure 3, it is clear that at the Oregon Shelf Surface Mooring the month with the highest average hourly precipitation rate was February (~0.13 mm/hr).
+From figure 3, it is clear that at the Oregon Shelf Surface Mooring the month with the highest average hourly precipitation rate was February (~0.13 mm/hr). The month with the lowest precipitation rate at this site was July (<0.01 mm/hr).
 </p>
 
 <h2> Oregon Offshore Surface Mooring </h2>
@@ -45,10 +45,17 @@ As shown in figure 4, the Oregon Offshore Surface Mooring site is most often exp
 ### Monthly Average Wind Speed
 <img alt="hello" src=Oregon_Offshore_Surface_Mooring/monthlyAvgWind.png><br>
 **Figure 5**
+<p>
+Figure 5 shows that for the Oregon Offshore Surface Mooring site, December was the month with the highest average wind speed (~6.8 m/s). The month with the lowest average wind speed at this site was August (~3.7 m/s).
+</p>
+
 
 ### Monthly Average Precipitation Rates
 <img alt="hello" src=Oregon_Offshore_Surface_Mooring/monthlyAvgRain.png><br>
 **Figure 6**
+<p>
+Figure 6 shows that for the Oregon Offshore Surface Mooring site, December was the month with the highest average precipitation rate (~0.12 mm/hr). The month with the lowest precipitation rate at this site was July (~0.02 mm/hr). 
+</p>
 
 <h2> Cross-Correlation of Wind Speeds and Precipitation Rates </h2>
 
