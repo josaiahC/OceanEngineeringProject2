@@ -8,7 +8,7 @@ CODE: https://colab.research.google.com/drive/1dwd26rRM9IhMvH5ezwPlnv7dWUbQ8vSJ
 
 ## Introduction <br>
 <p>
-In this project, wind speed and precipitation rate data taken from surface buoys off the Oregon coast were examined from April 2018 to April 2019. The two locations under examination were "Oregon Shelf Surface Mooring" and "Oregon Offshore Surface Mooring," the former being 72 kilometers East and 28 kilometers North of the latter. 
+In this project, wind speed and precipitation data taken from surface buoys off the Oregon coast were examined from April 2018 to April 2019. The two locations under consideration were "Oregon Shelf Surface Mooring" and "Oregon Offshore Surface Mooring," the former being 72 kilometers East and 28 kilometers North of the latter. Annual wind and rain patterns were constructed for both sites in order to identify patterns of windy and rainy, rainy but not windy, windy but not rainy, and neither windy nor rainy conditions. Additionally, monthly plots were constructed for both sites to show which months result in the highest and lowest average precipitation rate and wind speed values for either site.
 
 <h2> Oregon Shelf Surface Mooring </h2>
 
@@ -77,3 +77,4 @@ Figure 6 shows that for the Oregon Offshore Surface Mooring site, December was t
 </p>
 
 ## Conclusion
+In this project, wind speed and precipitation data taken from surface buoys off the Oregon coast were examined from April 2018 to April 2019. Annual wind and rain patterns were constructed for both sites in order to identify patterns of windy and rainy, rainy but not windy, windy but not rainy, and neither windy nor rainy conditions. The data show that closer to the shore, weather is more seasonal, i.e. sunnier and calmer days occur between late June and late September. Further out from the shore, weather is rainier in the Summer and generally rainier than regions closer to shore. Monthly plots were constructed for both sites to show which months result in the highest and lowest average precipitation rate and wind speed values for either site. It was found that at both sites, December was the month with the highest average wind speed and August the one with the lowest average wind speed. Additionally, both sites had minimum average hourly precipitation rates in the month of July. For monthly average wind speeds and monthly average precipitation rates at both sites, values peaked somewhere between late Fall and Winter, declining to minimums between July and August. In conclusion, these two data sets were shown to be significantly correlated with each other, both between buoy locations and between wind speed and precipitation patterns.
